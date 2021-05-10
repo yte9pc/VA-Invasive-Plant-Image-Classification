@@ -1,2 +1,3 @@
 # VA Invasive Plant Image Classification
 
+We develop and compare performance between several transfer learning image classification models focused on native and invasive species of aquatic plants in Virginia. We aim to accurately identify hydrilla plants, an entrenched invasive species in Virginia waterways, compared with other types of submergent aquatic plants that are not invasive species buthave similar appearance, to help identify which plants should be removed from a body of water as part of a conservationeffort. We focus on transfer learning models, given their greater accuracy for image classification, but also experimentwith original architecture for exploration and comparison purposes.
